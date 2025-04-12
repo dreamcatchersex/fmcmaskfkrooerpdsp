@@ -7,7 +7,7 @@ from aiogram.methods import DeleteWebhook
 import aiohttp
 import textwrap
 
-BOT_TOKEN = "5912748888:AAGMXGIdCv5WT_GYJJzNI_pZ5cCNCirKexg"
+BOT_TOKEN = "7996849165:AAH1tkZsYQxwLfOguBvOKhc1FjareBp9_Bg"
 API_TOKEN = "io-v2-eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJvd25lciI6ImIxM2RhY2NiLTNkYWItNDQzZC05NTlmLTM3ZGQxMDZkYmJjZCIsImV4cCI6NDg5ODA2ODgwMH0.jbBDc3pcXGiIYts9KfRgrajHfqSm6m2nrmuJ4ABb1UmnVoMsPWIJwbniYCeyGp6pyOXyoEsh0cod3PZ9PVMdXw"
 MAX_MESSAGE_LENGTH = 4096
 
